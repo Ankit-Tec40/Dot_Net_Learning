@@ -1,0 +1,7 @@
+E:\Dot_Net_Learning\IHelloRemotingService\HelloRemotingService\bin\Debug\HelloRemotingService.dll
+E:\Dot_Net_Learning\IHelloRemotingService\HelloRemotingService\bin\Debug\HelloRemotingService.pdb
+E:\Dot_Net_Learning\IHelloRemotingService\HelloRemotingService\bin\Debug\IHelloRemotingService.dll
+E:\Dot_Net_Learning\IHelloRemotingService\HelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+E:\Dot_Net_Learning\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.csprojResolveAssemblyReference.cache
+E:\Dot_Net_Learning\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.dll
+E:\Dot_Net_Learning\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.pdb

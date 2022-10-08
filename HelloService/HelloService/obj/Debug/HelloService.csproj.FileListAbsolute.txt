@@ -1,0 +1,5 @@
+E:\Dot_Net_Learning\HelloService\HelloService\bin\Debug\HelloService.dll.config
+E:\Dot_Net_Learning\HelloService\HelloService\bin\Debug\HelloService.dll
+E:\Dot_Net_Learning\HelloService\HelloService\bin\Debug\HelloService.pdb
+E:\Dot_Net_Learning\HelloService\HelloService\obj\Debug\HelloService.dll
+E:\Dot_Net_Learning\HelloService\HelloService\obj\Debug\HelloService.pdb

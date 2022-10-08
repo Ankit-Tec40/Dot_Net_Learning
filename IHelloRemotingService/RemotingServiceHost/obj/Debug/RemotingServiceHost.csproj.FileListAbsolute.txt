@@ -1,0 +1,10 @@
+E:\Dot_Net_Learning\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe.config
+E:\Dot_Net_Learning\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe
+E:\Dot_Net_Learning\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.pdb
+E:\Dot_Net_Learning\IHelloRemotingService\RemotingServiceHost\bin\Debug\HelloRemotingService.dll
+E:\Dot_Net_Learning\IHelloRemotingService\RemotingServiceHost\bin\Debug\IHelloRemotingService.dll
+E:\Dot_Net_Learning\IHelloRemotingService\RemotingServiceHost\bin\Debug\HelloRemotingService.pdb
+E:\Dot_Net_Learning\IHelloRemotingService\RemotingServiceHost\bin\Debug\IHelloRemotingService.pdb
+E:\Dot_Net_Learning\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.csprojResolveAssemblyReference.cache
+E:\Dot_Net_Learning\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.exe
+E:\Dot_Net_Learning\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.pdb
